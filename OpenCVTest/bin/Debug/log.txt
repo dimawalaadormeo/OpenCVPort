@@ -1,0 +1,10 @@
+done loading
+starting while
+readbuffer
+/home/madormeo/image_0021.jpg
+FaceRecNo = 24,  Confidence = 393724032
+starting while
+readbuffer
+/home/madormeo/image_0001.jpg
+FaceRecNo = 22,  Confidence = 393724032
+starting while

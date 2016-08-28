@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1470003811 source:/home/madormeo/OpenCVTest/OpenCVTest/main.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/contrib/contrib.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdint.h>
+
+1469287677 source:/home/madormeo/OpenCVTest/OpenCVTest/erl_port.c
+
+1469455381 source:/home/madormeo/OpenCVTest/OpenCVTest/porti.cpp
+	<iostream>
+	<stdint.h>
+
